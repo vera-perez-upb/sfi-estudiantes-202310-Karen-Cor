@@ -13,13 +13,7 @@ ProgramState currentState = ProgramState::INIT;
 // Tiempo de inicio
 unsigned long startTime = millis();
 
-void setup()
-{
-  Serial.begin(115200); // Inicializar la comunicación serial
-}
-
-void loop()
-{
+void task() {
   unsigned long currentTime = millis(); // Tiempo actual
 
   switch (currentState)
@@ -66,4 +60,12 @@ void loop()
   }
 }
 
+void setup()
+{
+  Serial.begin(115200); // Inicializar la comunicación serial
+}
 
+void loop()
+{
+  task(); // Llama a la función task() en cada iteración del loop
+}
