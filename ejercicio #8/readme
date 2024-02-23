@@ -1,5 +1,7 @@
 Estados del programa: El programa cuenta con los estados "ONE_SEC, TWO_SEC y THREE_SEC"
-que esperan 1, 2 y 3 segundos respectivamentte, para luego volver a un estado principal START.
+que esperan 1, 2 y 3 segundos respectivamentte, para luego volver a un estado principal "INIT".
+
+Evento: seria el propio paso de tiempo, que llevan al cambio de estado
 
 Acciones: Pasar de un estado a otro para asi imprimir los mensajes que indican que han
 pasado 1 segundo, 2 segundos, 3 segundos o que el programa vuelve a comenzar.
