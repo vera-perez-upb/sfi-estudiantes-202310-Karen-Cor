@@ -1,0 +1,21 @@
+En la documentación, encontramos información detallada sobre cómo comenzar a usar Arduino Pico, incluyendo cómo configurar
+el entorno de desarrollo, las características de la placa, las especificaciones técnicas, ejemplos de código, tutoriales y guias
+para proyectos. 
+
+la página oficial de Raspberry Pi Pico en el sitio web de Raspberry Pi
+-El Raspberry Pi Pico es una placa de desarrollo de bajo costo que utiliza el chip RP2040 diseñado por Raspberry Pi.
+-Incorpora un microcontrolador de doble núcleo ARM Cortex-M0+ que ofrece un rendimiento y eficiencia energética excepcionales.
+-Es una placa compacta y versátil que incluye una amplia gama de características y periféricos para facilitar el desarrollo
+ de proyectos electrónicos.
+
+ La documentación oficial del Raspberry Pi Pico incluye guias de inicio rápido, tutoriales, hojas de datos técnicos y ejemplos
+ de proyectos. Se proporciona soporte técnico y una comunidad activa de usuarios y desarrolladores que comparten conocimientos
+ y experiencias.
+
+ Sitio Web oficial de arduino
+ Arduino es una plataforma de hardware de código abierto y software que facilita la creación de proyectos electrónicos interactivos,
+ podemos explorar una amplia gama de placas Arduino disponibles, incluyendo las populares como Arduino Uno, Arduino Nano, Arduino
+ Mega, y muchas otras diseñadas para satisfacer diversas necesidades de proyectos. Ofrece tambien un entorno de desarrollo integrado(IDE)
+ que permite escribir, compilar y cargar código en las placas Arduino de una manera sencilla. Además, proporciona bibliotecas y herramientas
+ adicionales para facilitar el desarrollo de proyectos. Cuenta con una comunidad bastante activa, encontraremos una sección dedicada a
+ proyectos, tutoriales, y recursos que comparten los usuarios de Arduino de todo el mundo.
